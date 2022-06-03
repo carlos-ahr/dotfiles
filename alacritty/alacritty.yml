@@ -1,12 +1,12 @@
 window:
-  opacity: 1.0 
+  opacity: 0.8
   dimensions:
     columns: 80 
     lines: 24
   padding:
     x: 10
     y: 10
-  decorations: full
+  decorations: Full 
   title: Alacritty
   dynamic_title: false
   class:
@@ -17,16 +17,16 @@ window:
     multiplier: 4
 font:
   normal: 
-    family: JetBrainsMono Nerd Font
+    family: RobotoMono Nerd Font 
     style: Regular
   bold: 
-    family: JetBrainsMono Nerd Font
+    family: RobotoMono Nerd Font
     style: Bold
   italic:
-    family: JetBrainsMono Nerd Font
+    family: RobotoMono Nerd Font
     style: Italic
   bold_italic: 
-    family: JetBrainsMono Nerd Font
+    family: RobotoMono Nerd Font
     style: Bold Italicy
   size: 12.0
 colors:

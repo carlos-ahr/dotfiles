@@ -8,6 +8,7 @@ Plug 'preservim/nerdcommenter'
 Plug 'chun-yang/auto-pairs'
 Plug 'kaicataldo/material.vim', { 'branch': 'main' }
 Plug 'nathanaelkane/vim-indent-guides'
+Plug 'tribela/vim-transparent'
 Plug 'ryanoasis/vim-devicons'
 call plug#end()
 set showmatch
