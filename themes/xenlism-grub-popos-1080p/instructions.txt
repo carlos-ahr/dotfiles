@@ -1,0 +1,8 @@
+sudo apt-get install grub-customizer
+
+GRUB_GFXPAYLOAD_LINUX="keep"
+
+copy /usr/lib/grub/i386-pc/hwmatch.mod to /boot/grub/x86_64-efi
+
+cp -r /usr/lib/grub/i386-pc/hwmatch.mod /boot/grub/x86_64-efi/
+

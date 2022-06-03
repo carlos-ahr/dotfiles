@@ -1,0 +1,61 @@
+window:
+  opacity: 1.0 
+  dimensions:
+    columns: 80 
+    lines: 24
+  padding:
+    x: 10
+    y: 10
+  decorations: full
+  title: Alacritty
+  dynamic_title: false
+  class:
+    instance: Alacritty
+    general: Alacritty
+  scrolling:
+    history: 10000
+    multiplier: 4
+font:
+  normal: 
+    family: JetBrainsMono Nerd Font
+    style: Regular
+  bold: 
+    family: JetBrainsMono Nerd Font
+    style: Bold
+  italic:
+    family: JetBrainsMono Nerd Font
+    style: Italic
+  bold_italic: 
+    family: JetBrainsMono Nerd Font
+    style: Bold Italicy
+  size: 12.0
+colors:
+  primary:
+    background: '#1C1E22'
+    foreground: '#FFFFFF'
+  cursor:
+    text:   '#1C1E22'
+    cursor: '#FFFFFF'
+  normal:
+    black:   '#23252b'
+    red:     '#b54036'
+    green:   '#5ab977'
+    yellow:  '#deb566'
+    blue:    '#6a7c93'
+    magenta: '#a4799d'
+    cyan:    '#3f94a8'
+    white:   '#e6e8ef'
+  bright:
+    black:   '#23252b'
+    red:     '#b54036'
+    green:   '#5ab977'
+    yellow:  '#deb566'
+    blue:    '#6a7c93'
+    magenta: '#a4799d'
+    cyan:    '#3f94a8'
+    white:   '#e6e8ef'
+cursor:
+  style:
+    shape: Beam
+    blinking: On
+
