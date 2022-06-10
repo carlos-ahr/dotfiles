@@ -1,0 +1,8 @@
+2022/06/09-19:21:22.129 3 Reusing MANIFEST /home/carlos/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/06/09-19:21:22.132 3 Recovering log #7
+2022/06/09-19:21:22.132 3 Level-0 table #10: started
+2022/06/09-19:21:22.138 3 Level-0 table #10: 15653 bytes OK
+2022/06/09-19:21:22.138 3 Recovering log #10
+2022/06/09-19:21:22.138 3 Reusing old log /home/carlos/.config/google-chrome/Default/Session Storage/000010.log 
+2022/06/09-19:21:22.145 3 Delete type=0 #7
+2022/06/09-19:21:22.145 3 Delete type=2 #11

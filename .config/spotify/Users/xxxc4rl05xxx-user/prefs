@@ -1,0 +1,5 @@
+audio.sync_bitrate_enumeration=4
+audio.play_bitrate_non_metered_migrated=true
+ui.hide_hpto=true
+app.player.volume=65536
+audio.loudness.environment=2

@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=xxc4rl05xx.ch@gmail.com
+Enabled=true
+Parent=bd8caeed392b2c9600dd7f81b52055b9a4597dba
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=d5afb9e6337b848a0294d2c877681d7d2314a5af
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=xxc4rl05xx.ch@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

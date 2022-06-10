@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=xxc4rl05xx.ch@gmail.com
+Enabled=true
+Parent=bd8caeed392b2c9600dd7f81b52055b9a4597dba
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=xxc4rl05xx.ch@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

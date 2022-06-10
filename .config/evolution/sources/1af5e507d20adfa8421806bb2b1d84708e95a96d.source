@@ -1,0 +1,31 @@
+[Data Source]
+DisplayName=xxc4rl05xx.ch@gmail.com
+Enabled=true
+Parent=
+
+[Authentication]
+Host=
+Method=none
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+IsExternal=true
+
+[Collection]
+BackendName=outlook
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=6d84edde92b67f72
+MailEnabled=true
+AllowSourcesRename=false
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1654718629_1
+CalendarUrl=
+ContactsUrl=
+Name=
+Address=xxc4rl05xx.ch@gmail.com
